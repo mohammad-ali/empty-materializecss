@@ -1,0 +1,13 @@
+@font-face {
+font-family: "IRAN";
+src: url("fonts/IRAN.eot") format("embedded-opentype"),
+url("../fonts/IRAN.eot") format("embedded-opentype"),
+url("../fonts/IRAN.woff") format("woff"),
+url("../fonts/IRAN.ttf") format("truetype");
+}
+
+*{
+  font-family: "IRAN";
+  direction: rtl !important;
+  text-align: right;
+}
